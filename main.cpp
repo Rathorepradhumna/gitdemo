@@ -10,5 +10,6 @@ int main()
 	cin>>a;
 	cout<<"enter number b:";
 	cin>>b;
+	int p = add(a,b);
 	
 }
