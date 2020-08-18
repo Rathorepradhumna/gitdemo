@@ -15,5 +15,6 @@ int main()
 	cin>>b;
 	int p = add(a,b);
 	int q = sub(a,b);
+	int r = mul(a,b);
 	
 }
