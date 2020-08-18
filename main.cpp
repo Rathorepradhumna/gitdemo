@@ -6,6 +6,9 @@ int add(int a,int b){
 int sub(int a,b){
 	return a-b;
 }
+int mul(a,b){
+	return a*b;
+}
 int main()
 {
 	int a,b;
