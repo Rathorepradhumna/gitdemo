@@ -11,5 +11,6 @@ int main()
 	cout<<"enter number b:";
 	cin>>b;
 	int p = add(a,b);
+	int q = sub(a,b);
 	
 }
